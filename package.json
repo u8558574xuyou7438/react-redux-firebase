@@ -108,7 +108,7 @@
     "firebase-server": "^1.0.2",
     "gitbook-cli": "^2.3.2",
     "husky": "^4.3.8",
-    "jsdom": "^11.10.0",
+    "jsdom": "^16.5.0",
     "lint-staged": "^10.5.3",
     "lodash-webpack-plugin": "^0.11.5",
     "mocha": "^3.5.3",
